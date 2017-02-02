@@ -1,0 +1,5 @@
+name="PeanutWizard"
+url="https://www.dropbox.com/s/f1h6r4va6dxpw72/PeanutWizard.zip?dl=1"
+img="https://github.com/thecastlewizard/thecastle/blob/master/icon.png"
+fanart="https://github.com/thecastlewizard/thecastle/blob/master/fanart.jpg"
+description="Best Kodi Tutorials. @SimpleKodi"
